@@ -10,7 +10,7 @@ Soy estudiante de tercer año de desarollo de software en el Instituto Nacional 
 Python,Java, MySQL,HTML
 
 **Proyectos:**
-Proximamente
+- Farmacia DB
 
 **Contacto:**
 orellanadaniela060@gmail.com
