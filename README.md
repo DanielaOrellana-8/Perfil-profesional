@@ -11,6 +11,7 @@ Python,Java, MySQL,HTML
 
 **Proyectos:**
 - Farmacia DB
+- POS de una pasteleria
 
 **Contacto:**
 orellanadaniela060@gmail.com
